@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chunkr", "Bam.Net\_tools.co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{F2C6450D-0D69-44B2-BD94-C614924D8C59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Bam.Net\shared\bam.net.schema.org\bam.net.schema.org.projitems*{74602d8c-3b09-4037-a3c1-47818fa5c9d3}*SharedItemsImports = 13
@@ -522,6 +524,18 @@ Global
 		{F2C6450D-0D69-44B2-BD94-C614924D8C59}.Release|x64.Build.0 = Release|Any CPU
 		{F2C6450D-0D69-44B2-BD94-C614924D8C59}.Release|x86.ActiveCfg = Release|Any CPU
 		{F2C6450D-0D69-44B2-BD94-C614924D8C59}.Release|x86.Build.0 = Release|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Debug|x64.Build.0 = Debug|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Debug|x86.Build.0 = Debug|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Release|x64.ActiveCfg = Release|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Release|x64.Build.0 = Release|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Release|x86.ActiveCfg = Release|Any CPU
+		{A8B35A9A-EC01-4F6F-B91D-2C21FD878634}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
