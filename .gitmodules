@@ -1,3 +1,6 @@
 [submodule "Bam.Net"]
 	path = Bam.Net
 	url = https://github.com/BryanApellanes/Bam.Net.Core.git
+[submodule "Infra"]
+	path = Infra
+	url = https://github.com/BryanApellanes/Infra.git
