@@ -4,3 +4,6 @@
 [submodule "Infra"]
 	path = Infra
 	url = https://github.com/BryanApellanes/Infra.git
+[submodule "BamContent"]
+	path = BamContent
+	url = https://github.com/BryanApellanes/BamContent.git

@@ -87,7 +87,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bake", "Bam.Net\_tools.core
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamweb", "Bam.Net\_tools.core\bamweb\bamweb.csproj", "{B7FDEC8F-D56D-4637-856E-E1152C5F149C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chunkr", "Bam.Net\_tools.core\chunkr\chunkr.csproj", "{863F2C36-C0EE-46D3-AFF6-A9A8B6919DBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bambits", "Bam.Net\_tools.core\bambits\bambits.csproj", "{863F2C36-C0EE-46D3-AFF6-A9A8B6919DBC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bamdb", "Bam.Net\_tools.core\bamdb\bamdb.csproj", "{E35A87A2-6D65-4FFD-8E3D-385EAE7741F4}"
 EndProject
