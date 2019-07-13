@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.aspnet.core", "Bam.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badns", "Bam.Net\_tools.core\badns\badns.csproj", "{1BDDFC6C-E190-4A14-AA5B-B7AB327CBF9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adhoc", "Bam.Net\_lib\adhoc\adhoc.csproj", "{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Bam.Net\shared\bam.net.schema.org\bam.net.schema.org.projitems*{74602d8c-3b09-4037-a3c1-47818fa5c9d3}*SharedItemsImports = 13
@@ -564,6 +566,18 @@ Global
 		{1BDDFC6C-E190-4A14-AA5B-B7AB327CBF9B}.Release|x64.Build.0 = Release|Any CPU
 		{1BDDFC6C-E190-4A14-AA5B-B7AB327CBF9B}.Release|x86.ActiveCfg = Release|Any CPU
 		{1BDDFC6C-E190-4A14-AA5B-B7AB327CBF9B}.Release|x86.Build.0 = Release|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Debug|x64.Build.0 = Debug|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Debug|x86.Build.0 = Debug|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Release|x64.ActiveCfg = Release|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Release|x64.Build.0 = Release|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Release|x86.ActiveCfg = Release|Any CPU
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -615,6 +629,7 @@ Global
 		{8907D612-A429-4D16-93F4-EFDEAC99BF58} = {A2DAC819-AB50-4D55-80DF-2D43602ED282}
 		{DD43CEB3-CD47-49F5-A6BA-27BB9D53FD63} = {A2DAC819-AB50-4D55-80DF-2D43602ED282}
 		{1BDDFC6C-E190-4A14-AA5B-B7AB327CBF9B} = {E3A4B844-93F2-44C1-8744-681904AE9FF6}
+		{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A} = {A2DAC819-AB50-4D55-80DF-2D43602ED282}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0DA5E0B-6AD8-4F39-8F57-478C6AD7D4CA}
