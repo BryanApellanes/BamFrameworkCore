@@ -7,3 +7,6 @@
 [submodule "BamContent"]
 	path = BamContent
 	url = https://github.com/BryanApellanes/BamContent.git
+[submodule "BamAppServices"]
+	path = BamAppServices
+	url = https://github.com/BryanApellanes/BamAppServices.git
