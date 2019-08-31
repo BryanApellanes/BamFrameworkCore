@@ -111,7 +111,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.api", "BamAppServic
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BamAppServices", "BamAppServices", "{04D4221B-A0A2-4CE2-B896-85D99DCFC05D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.datasource", "BamAppServices\bam.net.datasource\bam.net.datasource.csproj", "{9EB98BF2-F66F-45C6-97BE-CF1CB18A6B8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.datastore", "BamAppServices\bam.net.datastore\bam.net.datastore.csproj", "{9EB98BF2-F66F-45C6-97BE-CF1CB18A6B8D}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
