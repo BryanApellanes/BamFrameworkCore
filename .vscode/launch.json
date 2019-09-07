@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "bake",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/Bam.Net/_tools.core/bake/bin/Debug/netcoreapp2.2/bake.dll",
+            "args": ["/discover:/c/bam/src/BamFrameworkCore/Infra/submodules/Bam.Net.Core/_tools.core/", "/output:~/.bam/toolkit/bin", "/outputRecipe:../recipes/osx-x64-toolkit-recipe.json"],
+            "cwd": "${workspaceFolder}/Bam.Net/_tools.core/bake",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickProcess}"
+        }
+    ]
+}
