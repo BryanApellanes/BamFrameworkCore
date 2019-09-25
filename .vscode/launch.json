@@ -4,8 +4,21 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
-
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Node Test",
+            "program": "${workspaceFolder}/BamContent/apps/bamapp/pages/Vimly/_lib/js/test.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Upload Test",
+            "program": "${workspaceFolder}/BamContent/apps/bamapp/pages/Vimly/PlanDocuments/doUpload.js",
+            "args": [
+                "Jan012020"
+            ]
+        },
         {
             "name": "bake",
             "type": "coreclr",
