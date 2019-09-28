@@ -4,12 +4,12 @@
 [submodule "Infra"]
 	path = Infra
 	url = git@github.com:BryanApellanes/Infra.git
-[submodule "BamContent"]
-	path = BamContent
-	url = git@github.com:BryanApellanes/BamContent.git
 [submodule "BamAppServices"]
 	path = BamAppServices
 	url = git@github.com:BryanApellanes/BamAppServices.git
 [submodule "BamAppServer"]
 	path = BamAppServer
 	url = git@github.com:BryanApellanes/BamAppServer.git
+[submodule "BamContent"]
+	path = BamContent
+	url = git@github.com:BryanApellanes/BamContent.git
