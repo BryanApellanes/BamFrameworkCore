@@ -13,10 +13,22 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Upload Test",
+            "name": "Find Provider Test",
+            "cwd": "${workspaceFolder}/BamContent/apps/bamapp/pages/Vimly/FindProvider/",            
+            "program": "${workspaceFolder}/BamContent/apps/bamapp/pages/Vimly/FindProvider/FindADentistLinkManager.main.js",
+            "args": [
+                "addAllLinks",
+                "2021",
+                "2020"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Upload",
             "program": "${workspaceFolder}/BamContent/apps/bamapp/pages/Vimly/PlanDocuments/doUpload.js",
             "args": [
-                "Jan012020"
+                "ToddTestMappings"
             ]
         },
         {
