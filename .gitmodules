@@ -13,3 +13,6 @@
 [submodule "BamContent"]
 	path = BamContent
 	url = git@github.com:BryanApellanes/BamContent.git
+[submodule "Server1"]
+	path = Server1
+	url = git@github.com:BryanApellanes/Server1.git
