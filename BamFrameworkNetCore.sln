@@ -67,31 +67,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Bam.Net", "_Bam.Net", "{99
 		Bam.Net\README.md = Bam.Net\README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_tools.core", "_tools.core", "{E3A4B844-93F2-44C1-8744-681904AE9FF6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_tools", "_tools", "{E3A4B844-93F2-44C1-8744-681904AE9FF6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bam", "Bam.Net\_tools.core\bam\bam.csproj", "{1D7B11EE-DF57-43D0-BCBB-9F9A20462C17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bam", "Bam.Net\_tools\bam\bam.csproj", "{1D7B11EE-DF57-43D0-BCBB-9F9A20462C17}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "breve", "Bam.Net\_tools.core\breve\breve.csproj", "{C8BC52A0-0A78-4941-ACAE-FFA8A053F2F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "breve", "Bam.Net\_tools\breve\breve.csproj", "{C8BC52A0-0A78-4941-ACAE-FFA8A053F2F7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamsdo", "Bam.Net\_tools.core\bamsdo\bamsdo.csproj", "{5C8F9E2F-E328-493B-983E-E4E9E4136588}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamsdo", "Bam.Net\_tools\bamsdo\bamsdo.csproj", "{5C8F9E2F-E328-493B-983E-E4E9E4136588}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamrpc", "Bam.Net\_tools.core\bamrpc\bamrpc.csproj", "{A492B452-40D9-4BCF-8DD6-5818F8913B8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamrpc", "Bam.Net\_tools\bamrpc\bamrpc.csproj", "{A492B452-40D9-4BCF-8DD6-5818F8913B8C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamtest", "Bam.Net\_tools.core\bamtest\bamtest.csproj", "{F7E54726-B7EC-4838-B7D1-97B132BFF6A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamtest", "Bam.Net\_tools\bamtest\bamtest.csproj", "{F7E54726-B7EC-4838-B7D1-97B132BFF6A6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laotze", "Bam.Net\_tools.core\laotze\laotze.csproj", "{AF5292C8-0CC1-496D-A171-58E16B166137}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "laotze", "Bam.Net\_tools\laotze\laotze.csproj", "{AF5292C8-0CC1-496D-A171-58E16B166137}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamd", "Bam.Net\_tools.core\bamd\bamd.csproj", "{130DC453-D7FD-459F-BB3E-C8D057C67DCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamd", "Bam.Net\_tools\bamd\bamd.csproj", "{130DC453-D7FD-459F-BB3E-C8D057C67DCE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bake", "Bam.Net\_tools.core\bake\bake.csproj", "{4E19AEB9-08A1-4808-A7B0-82052754775E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bake", "Bam.Net\_tools\bake\bake.csproj", "{4E19AEB9-08A1-4808-A7B0-82052754775E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bambits", "BamAppServices\_tools\bambits\bambits.csproj", "{863F2C36-C0EE-46D3-AFF6-A9A8B6919DBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bamdb", "Bam.Net\_tools.core\bamdb\bamdb.csproj", "{E35A87A2-6D65-4FFD-8E3D-385EAE7741F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bamdb", "Bam.Net\_tools\bamdb\bamdb.csproj", "{E35A87A2-6D65-4FFD-8E3D-385EAE7741F4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bamheart", "BamAppServices\_tools\bamheart\bamheart.csproj", "{AB0B895C-FC46-462A-B91F-B7E17A5F7B17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masuco", "Bam.Net\_tools.core\masuco\masuco.csproj", "{8CA9A682-C33B-4DC7-95DC-1F73851FB369}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masuco", "Bam.Net\_tools\masuco\masuco.csproj", "{8CA9A682-C33B-4DC7-95DC-1F73851FB369}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bambot", "BamAppServices\_tools\bambot\bambot.csproj", "{EBF0A04C-6236-4118-834B-9F422D13AFC1}"
 EndProject
@@ -99,7 +99,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_lib", "_lib", "{A2DAC819-A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.presentation.drawing", "Bam.Net\_lib\bam.net.presentation.drawing\bam.net.presentation.drawing.csproj", "{8907D612-A429-4D16-93F4-EFDEAC99BF58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badns", "Bam.Net\_tools.core\badns\badns.csproj", "{1BDDFC6C-E190-4A14-AA5B-B7AB327CBF9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badns", "Bam.Net\_tools\badns\badns.csproj", "{1BDDFC6C-E190-4A14-AA5B-B7AB327CBF9B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adhoc", "Bam.Net\_lib\adhoc\adhoc.csproj", "{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}"
 EndProject
@@ -117,7 +117,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_tools", "_tools", "{A5089C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bamwebproxy", "BamAppServices\_tools\bamwebproxy\bamwebproxy.csproj", "{58DE1704-D5C9-4A16-89DA-C961F8E9DA03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bamweb", "Bam.Net\_tools.core\bamweb\bamweb.csproj", "{B38AD7A5-6B04-4DE9-A1C5-305CA6D71E54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bamweb", "Bam.Net\_tools\bamweb\bamweb.csproj", "{B38AD7A5-6B04-4DE9-A1C5-305CA6D71E54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.aws", "Bam.Net\_lib\bam.net.aws\bam.net.aws.csproj", "{D721C0FC-8436-41C5-9F1E-F1B0DD2186F2}"
 EndProject
