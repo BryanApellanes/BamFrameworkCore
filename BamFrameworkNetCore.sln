@@ -97,7 +97,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bambot", "BamAppServices\_t
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_lib", "_lib", "{A2DAC819-AB50-4D55-80DF-2D43602ED282}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.presentation.drawing", "Bam.Net\_lib\bam.net.presentation.drawing\bam.net.presentation.drawing.csproj", "{8907D612-A429-4D16-93F4-EFDEAC99BF58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.presentation", "Bam.Net\_lib\bam.net.presentation\bam.net.presentation.csproj", "{8907D612-A429-4D16-93F4-EFDEAC99BF58}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badns", "Bam.Net\_tools\badns\badns.csproj", "{1BDDFC6C-E190-4A14-AA5B-B7AB327CBF9B}"
 EndProject
