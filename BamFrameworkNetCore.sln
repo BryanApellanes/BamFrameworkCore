@@ -75,7 +75,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "breve", "Bam.Net\_tools\bre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamsdo", "Bam.Net\_tools\bamsdo\bamsdo.csproj", "{5C8F9E2F-E328-493B-983E-E4E9E4136588}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamrpc", "Bam.Net\_tools\bamrpc\bamrpc.csproj", "{A492B452-40D9-4BCF-8DD6-5818F8913B8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamsvc", "Bam.Net\_tools\bamsvc\bamsvc.csproj", "{A492B452-40D9-4BCF-8DD6-5818F8913B8C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamtest", "Bam.Net\_tools\bamtest\bamtest.csproj", "{F7E54726-B7EC-4838-B7D1-97B132BFF6A6}"
 EndProject
