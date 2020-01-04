@@ -1,6 +1,13 @@
 #!/bin/bash
 
 # Usage: ./commit-everything.sh "Commit message"
+if [[ $1 = "-help" ]] || [[ $1 = "-?" ]] || [[ $1 = "-h" ]]; then
+    printf "usage: commit-everything.sh \"Commit message\"\r\n"
+    printf "\r\n"
+    printf "Recursively commits all changes in submodules.\r\n"
+    printf "\r\n"
+    exit 0;
+fi
 
 BOLD=$(tput bold)
 BLACK=$(tput setaf 0)
