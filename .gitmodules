@@ -1,18 +1,9 @@
 [submodule "Bam.Net"]
 	path = Bam.Net
 	url = git@github.com:BryanApellanes/Bam.Net.Core.git
-[submodule "Infra"]
-	path = Infra
-	url = git@github.com:BryanApellanes/Infra.git
 [submodule "BamAppServices"]
 	path = BamAppServices
 	url = git@github.com:BryanApellanes/BamAppServices.git
 [submodule "BamAppServer"]
 	path = BamAppServer
 	url = git@github.com:BryanApellanes/BamAppServer.git
-[submodule "Server1"]
-	path = Server1
-	url = git@github.com:BryanApellanes/Server1.git
-[submodule "BamToolkit"]
-	path = BamToolkit
-	url = https://github.com/BryanApellanes/BamToolkit.git
