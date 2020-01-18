@@ -7,3 +7,6 @@
 [submodule "BamAppServer"]
 	path = BamAppServer
 	url = git@github.com:BryanApellanes/BamAppServer.git
+[submodule "BamToolkit"]
+	path = BamToolkit
+	url = git@github.com:BryanApellanes/BamToolkit.git
