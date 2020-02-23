@@ -123,7 +123,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.aws", "Bam.Net\_lib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serff", "BamAppServices\_tools\serff\serff.csproj", "{F04FCA74-8482-45EA-ABB3-45452E732889}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.aws.tests", "Bam.Net\_tests\_lib\bam.net.aws\bam.net.aws.tests\bam.net.aws.tests.csproj", "{4858207D-E761-4D0F-85AB-241B543B74ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.aws.tests", "Bam.Net\_tests\_lib\bam.net.aws.tests\bam.net.aws.tests.csproj", "{4858207D-E761-4D0F-85AB-241B543B74ED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_lib", "_lib", "{25536030-FDAB-4C28-B531-DB0944D91555}"
 EndProject
@@ -132,6 +132,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.schema.org", "Bam.Net\_lib\bam.net.schema.org\bam.net.schema.org.csproj", "{1A392935-0B1D-4564-B72A-0C21E4754A91}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.schema.json.tests", "Bam.Net\_tests\core\bam.net.schema.json.tests\bam.net.schema.json.tests.csproj", "{A13A0BED-FED2-44F4-A8F8-5A2C66857C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.presentation.tests", "Bam.Net\_tests\_lib\bam.net.presentation.tests\bam.net.presentation.tests.csproj", "{0583A025-7472-423C-B975-07FEABD07D4F}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -712,6 +714,30 @@ Global
 		{A13A0BED-FED2-44F4-A8F8-5A2C66857C8F}.Release|x64.Build.0 = Release|Any CPU
 		{A13A0BED-FED2-44F4-A8F8-5A2C66857C8F}.Release|x86.ActiveCfg = Release|Any CPU
 		{A13A0BED-FED2-44F4-A8F8-5A2C66857C8F}.Release|x86.Build.0 = Release|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Debug|x64.Build.0 = Debug|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Debug|x86.Build.0 = Debug|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Release|x64.ActiveCfg = Release|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Release|x64.Build.0 = Release|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Release|x86.ActiveCfg = Release|Any CPU
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30}.Release|x86.Build.0 = Release|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Debug|x64.Build.0 = Debug|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Debug|x86.Build.0 = Debug|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Release|x64.ActiveCfg = Release|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Release|x64.Build.0 = Release|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Release|x86.ActiveCfg = Release|Any CPU
+		{0583A025-7472-423C-B975-07FEABD07D4F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -777,6 +803,8 @@ Global
 		{DCCA743F-0343-4480-8A5D-2F6971BECA74} = {10167E8D-31E1-42A2-9E00-4E3A63E2D446}
 		{1A392935-0B1D-4564-B72A-0C21E4754A91} = {A2DAC819-AB50-4D55-80DF-2D43602ED282}
 		{A13A0BED-FED2-44F4-A8F8-5A2C66857C8F} = {10167E8D-31E1-42A2-9E00-4E3A63E2D446}
+		{EAF17AAC-29A2-47C9-94A9-CB91EC0EAE30} = {25536030-FDAB-4C28-B531-DB0944D91555}
+		{0583A025-7472-423C-B975-07FEABD07D4F} = {25536030-FDAB-4C28-B531-DB0944D91555}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0DA5E0B-6AD8-4F39-8F57-478C6AD7D4CA}
