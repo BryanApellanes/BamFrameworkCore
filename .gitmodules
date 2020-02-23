@@ -10,6 +10,3 @@
 [submodule "BamToolkit"]
 	path = BamToolkit
 	url = git@github.com:BryanApellanes/BamToolkit.git
-[submodule "Bam.Java"]
-	path = Bam.Java
-	url = git@github.com:BryanApellanes/Bam.Java.git
