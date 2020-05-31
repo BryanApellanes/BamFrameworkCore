@@ -91,8 +91,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_lib", "_lib", "{A2DAC819-A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.presentation", "Bam.Net\_lib\bam.net.presentation\bam.net.presentation.csproj", "{8907D612-A429-4D16-93F4-EFDEAC99BF58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badns", "Bam.Net\_tools\badns\badns.csproj", "{1BDDFC6C-E190-4A14-AA5B-B7AB327CBF9B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adhoc", "Bam.Net\_lib\adhoc\adhoc.csproj", "{15B81E40-4F7B-4ADB-B256-B3B4D11D3D9A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BamAppServices", "BamAppServices", "{04D4221B-A0A2-4CE2-B896-85D99DCFC05D}"
@@ -144,6 +142,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.tests", "Bam.Net\_tests\_tools\bam.tests\bam.tests.csproj", "{07BA5660-CD73-49AF-8D58-18BA65CAEF8B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_tools", "_tools", "{D2A60212-CDED-4EDF-A4A8-F8817AC8E98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badns", "BamAppServices\_tools\badns\badns.csproj", "{8D6A2BA7-8963-4793-9CB6-12A345D0859A}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -784,6 +784,18 @@ Global
 		{07BA5660-CD73-49AF-8D58-18BA65CAEF8B}.Release|x64.Build.0 = Release|Any CPU
 		{07BA5660-CD73-49AF-8D58-18BA65CAEF8B}.Release|x86.ActiveCfg = Release|Any CPU
 		{07BA5660-CD73-49AF-8D58-18BA65CAEF8B}.Release|x86.Build.0 = Release|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Debug|x64.Build.0 = Debug|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Debug|x86.Build.0 = Debug|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Release|x64.ActiveCfg = Release|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Release|x64.Build.0 = Release|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Release|x86.ActiveCfg = Release|Any CPU
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -856,6 +868,7 @@ Global
 		{743586A5-33A4-4262-921F-0E59F8876947} = {50C315BE-AA89-4CCC-8FDE-B276BFDA8722}
 		{D2A60212-CDED-4EDF-A4A8-F8817AC8E98B} = {421D4974-14D6-43AF-B00F-9AE19E11531D}
 		{07BA5660-CD73-49AF-8D58-18BA65CAEF8B} = {D2A60212-CDED-4EDF-A4A8-F8817AC8E98B}
+		{8D6A2BA7-8963-4793-9CB6-12A345D0859A} = {A5089C47-DF56-48CB-956C-FB68C9ADF2FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0DA5E0B-6AD8-4F39-8F57-478C6AD7D4CA}
