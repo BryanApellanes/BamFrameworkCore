@@ -137,13 +137,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.data.graphql", "Bam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.net.data.dynamic", "Bam.Net\_lib\bam.net.data.dynamic\bam.net.data.dynamic.csproj", "{0D63D9C6-74A4-4083-83F1-99C7E628990C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bambot.tests", "BamAppServices\_tests\bambot.tests\bambot.tests.csproj", "{743586A5-33A4-4262-921F-0E59F8876947}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.remote.tests", "BamAppServices\_tests\bam.remote.tests\bam.remote.tests.csproj", "{743586A5-33A4-4262-921F-0E59F8876947}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.tests", "Bam.Net\_tests\_tools\bam.tests\bam.tests.csproj", "{07BA5660-CD73-49AF-8D58-18BA65CAEF8B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_tools", "_tools", "{D2A60212-CDED-4EDF-A4A8-F8817AC8E98B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badns", "BamAppServices\_tools\badns\badns.csproj", "{8D6A2BA7-8963-4793-9CB6-12A345D0859A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.remote", "BamAppServices\_lib\bam.remote\bam.remote.csproj", "{7E8C1346-6C96-488F-809F-D91E9F84C29F}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -796,6 +798,18 @@ Global
 		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Release|x64.Build.0 = Release|Any CPU
 		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Release|x86.ActiveCfg = Release|Any CPU
 		{8D6A2BA7-8963-4793-9CB6-12A345D0859A}.Release|x86.Build.0 = Release|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Debug|x64.Build.0 = Debug|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Debug|x86.Build.0 = Debug|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Release|x64.ActiveCfg = Release|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Release|x64.Build.0 = Release|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Release|x86.ActiveCfg = Release|Any CPU
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -869,6 +883,7 @@ Global
 		{D2A60212-CDED-4EDF-A4A8-F8817AC8E98B} = {421D4974-14D6-43AF-B00F-9AE19E11531D}
 		{07BA5660-CD73-49AF-8D58-18BA65CAEF8B} = {D2A60212-CDED-4EDF-A4A8-F8817AC8E98B}
 		{8D6A2BA7-8963-4793-9CB6-12A345D0859A} = {A5089C47-DF56-48CB-956C-FB68C9ADF2FC}
+		{7E8C1346-6C96-488F-809F-D91E9F84C29F} = {4B904054-84B8-4E4C-AF4B-FF5C7A4BEBB3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0DA5E0B-6AD8-4F39-8F57-478C6AD7D4CA}
