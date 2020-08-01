@@ -147,6 +147,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badns", "BamAppServices\_to
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.remote", "BamAppServices\_lib\bam.remote\bam.remote.csproj", "{7E8C1346-6C96-488F-809F-D91E9F84C29F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.github_bak", "BamAppServices\_lib\bam.github_bak\bam.github_bak.csproj", "{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.github", "BamAppServices\_lib\bam.github\bam.github.csproj", "{BC16629A-F76C-4097-85B8-692608AA348D}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Bam.Net\shared\bam.net.schema.org\bam.net.schema.org.projitems*{74602d8c-3b09-4037-a3c1-47818fa5c9d3}*SharedItemsImports = 13
@@ -810,6 +814,30 @@ Global
 		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Release|x64.Build.0 = Release|Any CPU
 		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Release|x86.ActiveCfg = Release|Any CPU
 		{7E8C1346-6C96-488F-809F-D91E9F84C29F}.Release|x86.Build.0 = Release|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Debug|x64.Build.0 = Debug|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Debug|x86.Build.0 = Debug|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Release|x64.ActiveCfg = Release|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Release|x64.Build.0 = Release|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Release|x86.ActiveCfg = Release|Any CPU
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}.Release|x86.Build.0 = Release|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Debug|x64.Build.0 = Debug|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Debug|x86.Build.0 = Debug|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Release|x64.ActiveCfg = Release|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Release|x64.Build.0 = Release|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Release|x86.ActiveCfg = Release|Any CPU
+		{BC16629A-F76C-4097-85B8-692608AA348D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -884,6 +912,8 @@ Global
 		{07BA5660-CD73-49AF-8D58-18BA65CAEF8B} = {D2A60212-CDED-4EDF-A4A8-F8817AC8E98B}
 		{8D6A2BA7-8963-4793-9CB6-12A345D0859A} = {A5089C47-DF56-48CB-956C-FB68C9ADF2FC}
 		{7E8C1346-6C96-488F-809F-D91E9F84C29F} = {4B904054-84B8-4E4C-AF4B-FF5C7A4BEBB3}
+		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC} = {4B904054-84B8-4E4C-AF4B-FF5C7A4BEBB3}
+		{BC16629A-F76C-4097-85B8-692608AA348D} = {4B904054-84B8-4E4C-AF4B-FF5C7A4BEBB3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0DA5E0B-6AD8-4F39-8F57-478C6AD7D4CA}
