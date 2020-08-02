@@ -147,8 +147,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "badns", "BamAppServices\_to
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.remote", "BamAppServices\_lib\bam.remote\bam.remote.csproj", "{7E8C1346-6C96-488F-809F-D91E9F84C29F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.github_bak", "BamAppServices\_lib\bam.github_bak\bam.github_bak.csproj", "{6959C9E4-EDB0-46B6-BD97-C798BE9840CC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.github", "BamAppServices\_lib\bam.github\bam.github.csproj", "{BC16629A-F76C-4097-85B8-692608AA348D}"
 EndProject
 Global
