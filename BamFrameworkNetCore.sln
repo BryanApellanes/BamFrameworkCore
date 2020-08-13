@@ -149,6 +149,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.remote", "BamAppService
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.github", "BamAppServices\_lib\bam.github\bam.github.csproj", "{BC16629A-F76C-4097-85B8-692608AA348D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam", "BamAppServices\_tools\bam\bam.csproj", "{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Bam.Net\shared\bam.net.schema.org\bam.net.schema.org.projitems*{74602d8c-3b09-4037-a3c1-47818fa5c9d3}*SharedItemsImports = 13
@@ -836,6 +838,18 @@ Global
 		{BC16629A-F76C-4097-85B8-692608AA348D}.Release|x64.Build.0 = Release|Any CPU
 		{BC16629A-F76C-4097-85B8-692608AA348D}.Release|x86.ActiveCfg = Release|Any CPU
 		{BC16629A-F76C-4097-85B8-692608AA348D}.Release|x86.Build.0 = Release|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Debug|x64.Build.0 = Debug|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Debug|x86.Build.0 = Debug|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Release|x64.ActiveCfg = Release|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Release|x64.Build.0 = Release|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Release|x86.ActiveCfg = Release|Any CPU
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -912,6 +926,7 @@ Global
 		{7E8C1346-6C96-488F-809F-D91E9F84C29F} = {4B904054-84B8-4E4C-AF4B-FF5C7A4BEBB3}
 		{6959C9E4-EDB0-46B6-BD97-C798BE9840CC} = {4B904054-84B8-4E4C-AF4B-FF5C7A4BEBB3}
 		{BC16629A-F76C-4097-85B8-692608AA348D} = {4B904054-84B8-4E4C-AF4B-FF5C7A4BEBB3}
+		{E2BC046A-3A0E-4CC3-96B2-BA8C9D0D7BB8} = {A5089C47-DF56-48CB-956C-FB68C9ADF2FC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0DA5E0B-6AD8-4F39-8F57-478C6AD7D4CA}
