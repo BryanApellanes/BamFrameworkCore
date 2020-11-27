@@ -34,7 +34,7 @@ SUBMODULES_UPDATED=0
 for SUBMODULE in "${SUBMODULES[@]}"; do
   pushd $SUBMODULE > /dev/null
   STATUS=$(git status --porcelain | wc -l)
-  if [[ -f "./commit-everything.sh" ]]; then
+  if [[ -f "./commit-submodules.sh" ]]; then
     ./commit-everything.sh $1
   elif [[ $STATUS -ne 0 ]]; then
     echo "🤓  ${GREEN}UPDATING SUBMODULE:${WHITE} ${SUBMODULE}${NORMAL}"
