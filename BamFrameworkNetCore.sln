@@ -153,7 +153,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bam.net.encryption.tests", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamtest.tests", "Bam.Net\_tests\_tools\bamtest.tests\bamtest.tests.csproj", "{A47AA131-FD1C-4F24-8F09-FBF04421E4A7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClientApps", "ClientApps", "{D6BFF62B-4EC3-4770-A019-30F7D095F506}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MobileApps", "MobileApps", "{D6BFF62B-4EC3-4770-A019-30F7D095F506}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bam.github.tests", "BamAppServices\_tests\bam.github.tests\bam.github.tests.csproj", "{BE92857D-9E0E-4E72-855C-8D1A4CBB9FB6}"
 EndProject
