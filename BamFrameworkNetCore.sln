@@ -167,21 +167,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bamdns", "BamAppServices\_t
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StartTribe", "StartTribe", "{B333C887-94CF-48E6-A77D-319C8E204F3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collusion.Android", "ClientApps\Collusion\Collusion.Android\Collusion.Android.csproj", "{ABAB659E-AA93-4774-8417-E3ACCBDEDDFA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collusion.Android", "MobileApps\Collusion\Collusion.Android\Collusion.Android.csproj", "{ABAB659E-AA93-4774-8417-E3ACCBDEDDFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collusion.iOS", "ClientApps\Collusion\Collusion.iOS\Collusion.iOS.csproj", "{FAE1C78A-2B80-4805-8883-6C3B733CF5A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collusion.iOS", "MobileApps\Collusion\Collusion.iOS\Collusion.iOS.csproj", "{FAE1C78A-2B80-4805-8883-6C3B733CF5A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collusion", "ClientApps\Collusion\Collusion\Collusion.csproj", "{3F84FCCE-B886-48BE-8E5B-71452EAF7121}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collusion", "MobileApps\Collusion\Collusion\Collusion.csproj", "{3F84FCCE-B886-48BE-8E5B-71452EAF7121}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Collusion", "Collusion", "{EE107DAF-6BAB-4394-89D0-A5FA5996EBFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTribe.Android", "ClientApps\StarTribe\StarTribe.Android\StarTribe.Android.csproj", "{8AEBD4F2-BC5E-4B7C-A13E-19F1E126B100}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTribe.Android", "MobileApps\StarTribe\StarTribe.Android\StarTribe.Android.csproj", "{8AEBD4F2-BC5E-4B7C-A13E-19F1E126B100}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTribe.iOS", "ClientApps\StarTribe\StarTribe.iOS\StarTribe.iOS.csproj", "{D048EE5E-98C9-4269-9C56-6B43C104A1AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTribe.iOS", "MobileApps\StarTribe\StarTribe.iOS\StarTribe.iOS.csproj", "{D048EE5E-98C9-4269-9C56-6B43C104A1AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTribe", "ClientApps\StarTribe\StarTribe\StarTribe.csproj", "{0B9888F6-67CA-4EA2-AB37-7D91198EEDB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTribe", "MobileApps\StarTribe\StarTribe\StarTribe.csproj", "{0B9888F6-67CA-4EA2-AB37-7D91198EEDB2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FarmersMarkets", "ClientApps\StarTribe\FarmersMarkets\FarmersMarkets.csproj", "{B7E327D8-0B00-4034-91CE-5234B21ECC49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FarmersMarkets", "MobileApps\StarTribe\FarmersMarkets\FarmersMarkets.csproj", "{B7E327D8-0B00-4034-91CE-5234B21ECC49}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution

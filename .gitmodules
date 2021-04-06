@@ -4,3 +4,6 @@
 [submodule "BamAppServices"]
 	path = BamAppServices
 	url = git@github.com:BryanApellanes/BamAppServices.git
+[submodule "BamApps"]
+	path = BamApps
+	url = git@github.com:BryanApellanes/BamApps.git
