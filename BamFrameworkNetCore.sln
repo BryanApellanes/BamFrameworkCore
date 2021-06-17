@@ -185,7 +185,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTribe.iOS", "BamApps\Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bam.ion", "BamAppServices\_lib\bam.ion\bam.ion.csproj", "{9C641792-6ED3-4AD6-A84C-E7208931EFEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bam.ion.tests", "BamAppServices\_tests\bam.ion.tests\bam.ion.tests.csproj", "{75185211-0812-4A35-B554-BEC6EF72B901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bam.ion.tests", "BamAppServices\_tests\bam.ion.tests\bam.ion.tests.csproj", "{75185211-0812-4A35-B554-BEC6EF72B901}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
